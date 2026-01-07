@@ -1,4 +1,4 @@
-# Descricão do projeto
+# 💻 Descricão do projeto
 
 Este projeto foi desenvolvido utilizando a IDE NetBeans 23 como parte de um projeto da disciplina de Programação Orientada a Objetos. O sistema foi criado sob a orientação do Professor José Antonio Gonçalves.
 
@@ -7,7 +7,7 @@ O objetivo central desta aplicação é consolidar os fundamentos da Programaç�
 
 # 🛠️ Tecnologias e Recursos
 - Linguagem: Java.
-- Interface Gráfica (GUI): Uso de JFrame, JTextField, JButton e JOptionPane
+- Interface Gráfica (GUI): Uso de JFrame, JTextField, JButton, Jmenu e JOptionPane
 - Armazenamento: Utilização de Collections (ArrayList)
 - Padrão de Projeto: Aplicação do padrão Singleton para garantir instâncias únicas do banco de dados e dos formulários.
 - Arquitetura de Software: Aplicação de Herança, Polimorfismo, sobrecarga, sobrescrita , encapsulamento, classes e métodos Abstratos.
